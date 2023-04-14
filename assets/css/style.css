@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 2rem;
+    background: linear-gradient(171deg, rgba(69, 176, 255, 1) 0%, rgba(255, 148, 249, 0.17690826330532217) 50%, rgba(255, 67, 67, 1) 100%);
+}
+
+.main-frame {
+    border-radius: 3rem;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+#avatar {
+    border-radius: 50%;
+    width: 15em;
+}
+
+.intro-mess {
+    text-align: center;
+}
+
+.intro-mess p {
+    font-size: 1em;
+}
+
+.info-button {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 70%;
+    height: 100px;
+    border-radius: 3rem;
+}
+
+.box-info {
+    border-radius: 1rem;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.text1 {
+    font-size: large;
+}
+
+.text2 {
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+#logo-instagram {
+    font-size: 55px;
+    background: -webkit-linear-gradient(45deg, #405DE6, #E1306C, #FFD3B5);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#logo-gmail {
+    font-size: 55px;
+    background: -webkit-linear-gradient(45deg, #d44638, #F59E35, #EA4335);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.click-btn{
+    transition: all 0.3s ease;
+}
+.click-btn:hover{
+    background: rgba(249, 75, 255, 0.3);
+}
