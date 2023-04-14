@@ -4,18 +4,18 @@
 }
 
 body {
-    margin: 2rem;
+    margin: 1rem;
     background: linear-gradient(171deg, rgba(69, 176, 255, 1) 0%, rgba(255, 148, 249, 0.17690826330532217) 50%, rgba(255, 67, 67, 1) 100%);
 }
 
 .main-frame {
-    border-radius: 1rem;
+    border-radius: 0.5rem;
     background-color: rgba(255, 255, 255, 0.3);
 }
 
 #avatar {
     border-radius: 50%;
-    width: 15em;
+    width: 10em;
 }
 
 .intro-mess {
@@ -38,7 +38,7 @@ body {
 }
 
 .text2 {
-    font-weight: 600;
+    font-weight: 500;
 }
 
 #logo-instagram {
